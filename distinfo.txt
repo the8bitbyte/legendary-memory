@@ -1,4 +1,0 @@
-version: . . . . . : 1.0
-subversion: . . . .: 3
-app: . . . . . . . : lengendary memory
-hosting: . . . . . : github
