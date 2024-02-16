@@ -1,6 +1,12 @@
 import sys 
 import socket 
 from datetime import datetime 
+
+class bcolors:
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
+
 print("""
 
 d8888b.  .d88b.  d8888b. d888888b      .d8888.  .o88b.  .d8b.  d8b   db d8b   db d88888b d8888b. 
