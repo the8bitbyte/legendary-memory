@@ -17,7 +17,7 @@ d8888b.  .d88b.  d8888b. d888888b      .d8888.  .o88b.  .d8b.  d8b   db d8b   db
 88       `Y88P'  88   YD    YP         `8888Y'  `Y88P' YP   YP VP   V8P VP   V8P Y88888P 88   YD 
                                                                                                  
 """)
-print("Enter your host ip address , Example '192.168.10.10'")
+print(bcolors.RED + "Enter your host ip address , Example '192.168.10.10'")
 host = socket.gethostbyname(input("Enter your host ip address: "))
 
 print("Enter the range, Example '50'")
