@@ -7,7 +7,7 @@ class bcolors:
     YELLOW = '\033[93m'
     RED = '\033[91m'
 
-print("""
+print(bcolors.GREEN + """
 
 d8888b.  .d88b.  d8888b. d888888b      .d8888.  .o88b.  .d8b.  d8b   db d8b   db d88888b d8888b. 
 88  `8D .8P  Y8. 88  `8D `~~88~~'      88'  YP d8P  Y8 d8' `8b 888o  88 888o  88 88'     88  `8D 
